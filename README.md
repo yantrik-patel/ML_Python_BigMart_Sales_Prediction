@@ -8,4 +8,9 @@ The dataset is opensource data available on Kaggle. Following is the path I have
 (3) Data Preprocessing and Label Encoding.  
 (4) Data Splitting into 'Features' and 'Target' & 'Train' and 'Test'.  
 (5) ML Model Training and Evaluation of performance.  
-(6) Selection of best fit Model.
+(6) Selection of best fit Model.  
+  
+    
+NOTE :  
+I have uploaded HTML file for those who wants to see the analysis.  
+And .ipynb file for those who wants to carry out further analysis.
